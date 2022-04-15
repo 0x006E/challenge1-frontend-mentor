@@ -58,5 +58,5 @@ My focus for the future is to perfect my approaches on responsiveness of the cha
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- LinkedIn - [Nithin S Varrier](https://www.linkedin.com/in/nithin-s-varrier/)
 - Frontend Mentor - [@0x006E](https://www.frontendmentor.io/profile/0x006E)
